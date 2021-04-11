@@ -1,5 +1,5 @@
 # Santralcell SDK
-Santralcell üzerindeki verileri bir uygulama yardımı ile başka bir uygulamaya aktaran yapıdır.
+Santralcell SDK uygulaması Santralcell'e bağlı agent'ların telefon durumlarını başka bir uygulama üzerinden kullanılabilmesini sağlamak için geliştirilmiş bir uygulamadır.
 
 
 # Uygulama
