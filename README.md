@@ -11,4 +11,4 @@ Uygulamayı indirmek için  <a href="https://github.com/fbasar/SantralcellSDKPub
 
 # Döküman
 
-Proje hakkında dökümanlara ulaşmak için tıkayınız
+Proje hakkında dökümanlara ulaşmak için <a href="https://github.com/fbasar/SantralcellSDKPublic/wiki">tıkayınız</a>
